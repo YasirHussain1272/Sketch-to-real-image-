@@ -45,6 +45,8 @@ The model architecture consists of two primary components:
 ## Installation
 
 To set up the project, follow these steps:
+## Sample Application View
+![Life Expectancy Prediction GUI](dataset.png)
 
 1. **Clone the repository:**
 
